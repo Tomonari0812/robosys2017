@@ -5,6 +5,7 @@
 #徐々にLEDが明るくなったり暗くなったりする
 
 #使い方
+
   $make
   $sudo insmod myled.ko
   $sudo chmod 666 /dev/myled0
