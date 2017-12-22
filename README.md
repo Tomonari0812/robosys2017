@@ -6,9 +6,9 @@
 
 #使い方
 
-  $make
-  $sudo insmod myled.ko
-  $sudo chmod 666 /dev/myled0
+  1.$make
+  2.$sudo insmod myled.ko
+  3.$sudo chmod 666 /dev/myled0
   $echo 2 > /dev/myled0 
   $sudo rmmod myled
   $make clean
