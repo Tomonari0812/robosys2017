@@ -17,3 +17,6 @@ robosys2017の課題
   $sudo rmmod myled
   
   $make clean
+  
+#動画
+　https://www.youtube.com/watch?v=5PMfbL90UNY&feature=youtu.be
